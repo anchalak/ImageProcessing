@@ -1,6 +1,8 @@
-# This repository contains three image processesing and one image classification projects. Below is a summary of all four projects:
+#Image Processing Projects
 
-## Image Processing using DeOldify
+### This repository contains three image processesing and one image classification projects. Below is a summary of all four projects:
+
+#### Image Processing using DeOldify
 In this Project, I will levarage DeOldify to colorize different types of images to get a better sense of how colorization works on diffrerent different types of images. DeOldify is a deep learning-based image colorization algorithm that aims to restore color to grayscale images. Below is a quick summary of how it works:
   Input a grayscale image lacking color information.
   Apply a decolorization step to remove remaining color information.
