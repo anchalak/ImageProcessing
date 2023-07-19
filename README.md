@@ -1,4 +1,4 @@
-#Image Processing Projects
+# Image Processing Projects
 
 ### This repository contains three image processesing and one image classification projects. Below is a summary of all four projects:
 
